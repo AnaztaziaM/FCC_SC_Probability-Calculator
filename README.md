@@ -1,6 +1,6 @@
 # FCC_SC_Probability-Calculator
-FreeCodeCamp- Scientific Computing with Python Certification course-Probability Calculator project.
-This project is one of the projects in FeeCodeCamp- Scientific Computing with Python Certification course. The README, main.py and test_module.py files are created by Freecodecamp.I am using these to illustrate why is my code looks like it is. The prob_calculator.py is my code.
+**FreeCodeCamp- Scientific Computing with Python Certification course-Probability Calculator project.
+This project is one of the projects in FeeCodeCamp- Scientific Computing with Python Certification course. The README, main.py and test_module.py files are created by Freecodecamp.I am using these to illustrate why is my code looks like it is. The prob_calculator.py is my code.**
 
 
 ### Assignment
